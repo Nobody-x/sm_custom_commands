@@ -1,0 +1,15 @@
+// Put translated command result here
+"Phrases"
+{
+	"Discord"
+	{
+		"en"		"{darkblue}Here is the discord invite link : {default}https://discord.gg/bwGgRkG"
+		"fr"		"{darkblue}Voici le lien permanent du discord : {default}https://discord.gg/bwGgRkG"
+	}
+
+	"Join Group"
+	{
+		"en"		"{darkblue}Here you can join our group :\n{default}https://steamcommunity.com/groups/iekneb"
+		"fr"		"{darkblue}Vous pouvez rejoindre le groupe ici :\n{default}https://steamcommunity.com/groups/iekneb"
+	}
+}

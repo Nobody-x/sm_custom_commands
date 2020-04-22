@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Configuration reloaded"
+	{
+		"en"		"Configuration reloaded"
+		"fr"		"Configuration rechargée"
+	}
+}
