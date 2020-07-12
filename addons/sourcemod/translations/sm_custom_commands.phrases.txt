@@ -4,5 +4,6 @@
 	{
 		"en"		"Configuration reloaded"
 		"fr"		"Configuration rechargée"
+		"ru"		"Конфигурация перезагружена"
 	}
 }
